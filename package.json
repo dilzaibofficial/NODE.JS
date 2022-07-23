@@ -1,0 +1,30 @@
+{
+  "name": "first-class",
+  "version": "1.0.0",
+  "description": "Node js Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palhg5848/Node-tut.git"
+  },
+  "keywords": [
+    "Code",
+    "Step",
+    "By",
+    "Step"
+  ],
+  "author": "Dil Zaib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palhg5848/Node-tut/issues"
+  },
+  "homepage": "https://github.com/palhg5848/Node-tut#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
